@@ -273,7 +273,15 @@ body {
 
 /* fotter section start */
 
+.footer{
+   width: 1140px;
+   display: flex;
+   align-items: center;
+}
 
-
+.footer-icone{
+   margin: 20px;
+   margin-right: 50px;
+}
 
 /* fotter section end */
