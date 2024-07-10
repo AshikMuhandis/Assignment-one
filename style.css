@@ -159,3 +159,19 @@ body {
  }
  
  /* inspiration Section end */
+
+
+ /* my current target start */
+ 
+.current-target-text-container{
+    background-color: green;
+    width: 1140px;
+    height: 460px;
+    margin: 150px auto;
+    border: 3px solid red;
+    text-align: center;
+ }
+
+
+
+  /* my current target end */
