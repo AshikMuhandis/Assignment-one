@@ -208,9 +208,14 @@ body {
    font-weight: 700;
 }
 
+
+/* support section start */
+
 .support {
    border: 1px solid green;
    background-image: url(./assets/handshake.jpg);
+   background-repeat: no-repeat;
+   background-position: cover;
    width: 1140px;
    height: 350px;
    border-radius: 16PX;
@@ -239,9 +244,36 @@ body {
    line-height: 26px;
    opacity: 0.7;
 }
-.support{
-   background-color: rgba(0,0,0,0.5);
-   z-index: 1;
 
-
+.suggest-me{
+   background: rgb(255, 255, 255);
+   padding: 20px;
+   width: 548px;
+   height: 25px;
+   border-radius: 16px;
 }
+
+.sub{
+   background: rgb(255, 255, 255);
+   width: 120px;
+   height: 58px;
+   border-radius: 8px;
+   font-size: 20px;
+   margin: 16px;
+}
+
+.feedback-option{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+/* support section end */
+
+
+/* fotter section start */
+
+
+
+
+/* fotter section end */
