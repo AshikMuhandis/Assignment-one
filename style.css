@@ -207,3 +207,41 @@ body {
    font-size: 16px;
    font-weight: 700;
 }
+
+.support {
+   border: 1px solid green;
+   background-image: url(./assets/handshake.jpg);
+   width: 1140px;
+   height: 350px;
+   border-radius: 16PX;
+   margin: 48px auto;
+   padding: 64px;
+   flex-direction: column;
+   text-align: center;
+
+}
+
+.feedback-btn{
+   color: yellowgreen;
+   font-size: 50px;
+}
+
+.support h1 {
+   font-size: 32px;
+   font-weight: 800;
+   color: rgb(255, 255, 255);
+}
+
+.support p {
+   color: rgb(255, 255, 255);
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 26px;
+   opacity: 0.7;
+}
+.support{
+   background-color: rgba(0,0,0,0.5);
+   z-index: 1;
+
+
+}
